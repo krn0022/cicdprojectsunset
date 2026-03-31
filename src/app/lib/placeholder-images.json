@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract technology network background",
+      "imageUrl": "https://picsum.photos/seed/forgeflow-hero/1200/800",
+      "imageHint": "technology network"
+    },
+    {
+      "id": "dashboard-preview",
+      "description": "Dashboard interface preview",
+      "imageUrl": "https://picsum.photos/seed/forgeflow-dash/800/600",
+      "imageHint": "dashboard software"
+    }
+  ]
+}
